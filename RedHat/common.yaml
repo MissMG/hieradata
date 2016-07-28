@@ -1,4 +1,4 @@
 classes:
 
  - role::base
-motd::content: "Hello, Satellite
+motd::content: "Hello, Satellite"
